@@ -1,0 +1,19 @@
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\bin\Debug\net6.0-windows\Cookie Clicker.exe
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\bin\Debug\net6.0-windows\Cookie Clicker.deps.json
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\bin\Debug\net6.0-windows\Cookie Clicker.runtimeconfig.json
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\bin\Debug\net6.0-windows\Cookie Clicker.dll
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\bin\Debug\net6.0-windows\Cookie Clicker.pdb
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.vbproj.AssemblyReference.cache
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie_Clicker.Form1.resources
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.vbproj.GenerateResource.cache
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.AssemblyInfoInputs.cache
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.AssemblyInfo.vb
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.vbproj.CoreCompileInputs.cache
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.dll
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\refint\Cookie Clicker.dll
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.pdb
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie Clicker.genruntimeconfig.cache
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\ref\Cookie Clicker.dll
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie_Clicker.Resources.resources
+C:\Users\yawbo\source\repos\Cookie Clicker\Cookie Clicker\obj\Debug\net6.0-windows\Cookie_Clicker.Form2.resources
